@@ -4,18 +4,7 @@
 
 ## Содержание
 1. [Подготовка к установке](#подготовка-к-установке)
-1. [Installation](#getting-started)
-1. [Running the Project](#running-the-project)
-1. [Project Structure](#project-structure)
-1. [Live Development](#local-development)
-    * [Hot Reloading](#hot-reloading)
-    * [Redux DevTools](#redux-devtools)
-1. [Routing](#routing)
-1. [Testing](#testing)
-    * [dirty-chai](#dirty-chai)
-1. [Building for Production](#building-for-production)
-1. [Deployment](#deployment)
-1. [Thank You](#thank-you)
+1. [Установка и запуск](#Установка)
 
 ## Подготовка к установке
 Убедитесь, что у вас установлены следующие программы:
