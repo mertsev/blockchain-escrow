@@ -1,0 +1,20 @@
+.error {
+	padding: 1px;
+}
+
+/*.form-control:focus {
+	box-shadow: 0 !important;
+	border: 0;
+}*/
+
+.error input,
+.error input:focus {
+	border: 1px solid #ff0000;
+	box-shadow: 0;
+}
+
+.errorMessage {
+	margin-top: 10px;
+
+	color: red;
+}
