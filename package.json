@@ -28,6 +28,7 @@
     "ethjs-query": "^0.2.9",
     "express": "^4.14.0",
     "formsy-react": "^0.19.5",
+    "geth": "^0.4.0",
     "jquery": "^3.2.1",
     "object-assign": "^4.1.1",
     "popper": "^1.0.0",
